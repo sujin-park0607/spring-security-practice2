@@ -1,4 +1,4 @@
-package com.example.springsecuritypractice.domain;
+package com.example.springsecuritypractice.domain.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
